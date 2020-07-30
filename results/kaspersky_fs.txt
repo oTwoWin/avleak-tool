@@ -1,0 +1,53 @@
+C:\
+- afalmvul.ee
+- AUTOEXEC.BAT
+- bkfglgd.ee
+- CONFIG.SYS
+- CONFIG.SYS
+- huvubwj.ee
+- IO.SYS
+- IO.SYS
+- NTDETECT.COM
+- ntldr
+- nX.ee
+- nX.ee
+- Program Files
+-- AntiVir PersonalEdition ClassiAgnitum
+-- AntiVir PersonalEdition Classic
+-- Common Files
+-- CuteFTP
+-- eDonkey2000
+-- eMule
+-- Eset
+-- F-Secure Internet Security
+-- Grokster
+-- Internet Eplorer
+-- Kaspersky Lab
+-- KAV6
+-- Kazaa
+-- McAfee
+-- mcafee.com
+-- Messenger
+-- Morpheus
+-- MSN Gaming Zone
+-- MSN Messenger
+-- Network Associates
+-- Norton AntiVirus
+-- Norton Internet Security
+-- Outlook Epress
+-- QIP
+-- Rising
+-- Sygate
+-- Symantec
+-- Symantec AntiVirus
+-- Tencent
+-- Trillian
+-- Windovsbar_
+-- Windows Media Player
+-- Windows NT
+-- WinMX
+- qhuhsl.ee
+- Recycled
+- Recycler
+- System Volume Information
+- WINDOWS

@@ -1,0 +1,15 @@
+WINDOWS
+Documents and Settings
+INTERNAL
+Program Files
+TEMP
+System Volume Information
+ntldr
+Mirc
+IndexerVolumeGuid
+UserData
+tssafeedit.dat
+config.sys
+aaa_TouchMeNot_
+aaa_TouchMeNot_.txt
+myapp.exe
